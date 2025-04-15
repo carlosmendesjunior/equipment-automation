@@ -1,3 +1,5 @@
+# Equipment Automation
+
 This repository is intended for academic and teaching purposes. Use it at your own risk.
 
 Below is a list of compatible equipment and links to their SCPI reference manuals:
