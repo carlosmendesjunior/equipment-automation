@@ -1,4 +1,5 @@
 # Equipment Automation
+## CMendes
 
 This repository is intended for academic and teaching purposes. Use it at your own risk.
 
